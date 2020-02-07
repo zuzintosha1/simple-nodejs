@@ -1,0 +1,15 @@
+{
+  "name": "sms.netcracker.com",
+  "version": "1.0.0",
+  "description": "For test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Anton Ziuzin (anzi1117)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
